@@ -7,22 +7,29 @@ symptoms of heart disease. Timely attention and proper diagnosis of heart diseas
 
 ## Software Requirements
 
-1.Operating System : windows, Linux, MacOS 
+1.Operating System : windows, Linux, MacOS
+
 2.Programming : python3.6 and related libraries 
+
 3.Software : Any preferred IDE, Google colab and jupyter 
 Notebook
 
 ## Hardware Requirements
 
 1.Hard Disk Drive : 512 GB 
+
 2.Processor : i5 and above 
+
 3.RAM : 4GB (8 GB Preferred) 
 
 # Team Members
 
 1.C.Hemavathamma(Team Leader)
+
 2.V.Sai Praneetha
+
 3.M.Mohammad Anees
+
 4.N H Uday Shankar Reddy
 
 # Acknowledgement
